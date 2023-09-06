@@ -27,6 +27,12 @@ jobs:
       - name: Build Application
         run: npm run build
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifact # Make sure this matches the artifact_name in deploy step
+          path: ./dist
+
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1.2.9
 

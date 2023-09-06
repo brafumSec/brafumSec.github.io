@@ -32,8 +32,10 @@ jobs:
         with:
           name: github-pages # Make sure this matches the artifact_name in deploy step
           path: ./dist
-
+          
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1.2.9
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub Token 进行部署
         
 

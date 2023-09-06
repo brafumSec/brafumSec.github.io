@@ -26,5 +26,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1.2.9
-        with:
-          # token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub Token 进行部署
+

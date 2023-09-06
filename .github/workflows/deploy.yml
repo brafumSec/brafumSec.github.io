@@ -17,9 +17,9 @@ jobs:
       id-token: write   # to verify the deployment originates from an appropriate source
 
     # Deploy to the github-pages environment
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    # environment:
+    #   name: github-pages
+    #   url: ${{ steps.deployment.outputs.page_url }}
       
     steps:
       - name: Checkout Repository
@@ -46,6 +46,7 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub Token 进行部署
+          branch: github-pages
       
 
       

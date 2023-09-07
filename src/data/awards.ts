@@ -18,17 +18,16 @@ export default [
     name: 'Doctoral Dissertation Award of ACM SIGSAC China',
     date: 2022,
     level: '2022',
+  },  
+  {
+    name: 'Nomination for the Distinguished Paper Award of CCS',
+    date: 2020,
+    level: '2020',
   },
   {
     name: '省部级优秀硕士学位论文',
     date: 2011,
     level: '2011',
-  },
-  
-  {
-    name: 'Nomination for the Distinguished Paper Award of CCS',
-    date: 2020,
-    level: '2020',
   },
   {
     name: '无连接网络中安全可信的端到端传送关键技术及应用',

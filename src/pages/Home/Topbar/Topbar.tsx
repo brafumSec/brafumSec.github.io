@@ -1,6 +1,7 @@
 import { Anchor } from 'antd';
 import React from 'react';
 import './Topbar.less';
+import data from '@/data/nav';
 
 // 脚手架示例组件
 const Topbar: React.FC = () => {
@@ -11,28 +12,7 @@ const Topbar: React.FC = () => {
     className="anchor"
     targetOffset={60}
     onClick={(e) => e.preventDefault()}
-    items={[
-      {
-        key: 'about',
-        href: '#about',
-        title: 'About',
-      },
-      {
-        key: 'publications',
-        href: '#publications',
-        title: 'Publications',
-      },
-      {
-        key: 'awards',
-        href: '#awards',
-        title: 'Awards',
-      },
-      {
-        key: 'acknowledgements',
-        href: '#acknowledgements',
-        title: 'Acknowledgements',
-      },
-    ]}
+    items={data}
   />
     </div>
 

@@ -9,22 +9,22 @@ export default [
   },
   {
     text: 'HUAWEI Acknowledgment',
-    cert: 'Certificate',
+    cert: '(Certificate)',
   },
   {
     text: 'China Telecom Acknowledgment',
-    cert: 'Certificate',
+    cert: '(Certificate)',
   },
   {
-    text: 'Media Coverage (Cyber Security News)',
+    text: 'Media Coverage by Cyber Security News',
     link: 'https://cybersecuritynews.com/mitm-attack-on-wi-fi-networks/',
   },
   {
-    text: 'Media Coverage (APNIC)',
+    text: 'Media Coverage by APNIC',
     link: 'https://blog.apnic.net/2023/05/29/mitm-attacks-in-public-wi-fi-networks-without-rogue-access-points/',
   },
   {
-    text: 'Media Coverage (The Register)',
+    text: 'Media Coverage by The Register',
     link: 'https://www.theregister.com/2023/04/07/wifi_access_icmp/',
   },
 ]

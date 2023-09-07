@@ -15,7 +15,7 @@ const Intro: React.FC = () => {
           <img className="photo" src={photo} alt="Feng xuewei"  />
         </Col>
         <Col {...{ xs: 24, sm: 19, md: 19, lg: 19 }}>
-          <Descriptions title="Feng Xuewei, Ph.D.">
+          <Descriptions title={data.name}>
             <Descriptions.Item span={3} label="Email">
               <a href={`mailto:${data.email}`}>{data.email}</a>
             </Descriptions.Item>

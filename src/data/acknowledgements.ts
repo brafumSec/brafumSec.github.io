@@ -1,6 +1,6 @@
 export default [
   {
-    text: '高通致谢',
+    text: 'Qualcomm Acknowledgment',
     link: 'https://docs.qualcomm.com/product/publicresources/securitybulletin/november-2022-bulletin.html',
   },
   {

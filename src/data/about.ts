@@ -1,8 +1,9 @@
 export default [
   `
-  I am a Ph.D. graduate of Tsinghua University. My research focuses on
-  network security and program analysis. I have discovered security
-  issues in the TCP/IP protocol suite and other fundamental Internet
+  I received my Ph.D. in Computer Science from Tsinghua University and 
+  I have more than 10 years of working experience on network security and 
+  program analysis. My primary research area centers on identifying
+  vulnerabilities within the TCP/IP protocol suite and other fundamental Internet
   building blocks, e.g., Wi-Fi, IPv4/IPv6, ICMP, UDP, and TCP. My work has
   received widespread recognition and has been published at leading
   network security conferences, e.g., IEEE S&P, USENIX Security, ACM

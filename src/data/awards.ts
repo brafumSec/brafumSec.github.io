@@ -1,13 +1,34 @@
 export default [
   {
-    name: 'Frontiers of Science Awards',
+    name: 'Frontiers of Science Awards by International Congress of Basic Science',
     date: 2023,
-    level: '<strong>International Congress of Basic Science (ICBS)</strong>',
+    level: '2023',
+  },
+ {
+    name: 'Outstanding Doctoral Dissertation of Tsinghua University',
+    date: 2022,
+    level: '2022',
   },
   {
-    name: 'Nomination for the Distinguished Paper Award',
+    name: 'Outstanding Ph.D. Graduate of Tsinghua University',
+    date: 2022,
+    level: '2022',
+  },
+  {
+    name: 'Doctoral Dissertation Award of ACM SIGSAC China',
+    date: 2022,
+    level: '2022',
+  },
+  {
+    name: '省部级优秀硕士学位论文',
+    date: 2011,
+    level: '2011',
+  },
+  
+  {
+    name: 'Nomination for the Distinguished Paper Award of CCS',
     date: 2020,
-    level: '<strong>CCS’2020</strong>',
+    level: '2020',
   },
   {
     name: '无连接网络中安全可信的端到端传送关键技术及应用',
@@ -43,25 +64,5 @@ export default [
     name: '可重构的大规模 IP 网络试验环境构建技术',
     date: 2013,
     level: '省部级科技进步二等奖',
-  },
-  {
-    name: '清华大学优秀博士毕业生',
-    date: 2022,
-    level: '',
-  },
-  {
-    name: '清华大学优秀博士学位论文',
-    date: 2022,
-    level: '',
-  },
-  {
-    name: 'ACM SIGSAC China优博奖',
-    date: 2022,
-    level: '',
-  },
-  {
-    name: '省部级优秀硕士学位论文',
-    date: 2011,
-    level: '',
   },
 ];

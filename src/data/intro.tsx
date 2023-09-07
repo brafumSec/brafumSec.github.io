@@ -1,7 +1,5 @@
 export default {
   title: 'Feng Xuewei, Ph.D.',
-  email: "fengxw06@126.com",
-  research: "Network and Information Security",
   items: [
     {
       key: '1',  // 保证唯一就行

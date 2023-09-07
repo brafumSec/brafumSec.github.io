@@ -8,6 +8,10 @@ export default [
     link: 'https://mp.weixin.qq.com/s/u6mcQb0zJJQl8MlDQfW6WA',
   },
   {
+    text: 'GitHub Acknowledgment',
+    link: 'https://github.com/advisories/GHSA-w52c-ppqw-2gxp',
+  },
+  {
     text: 'HUAWEI Acknowledgment',
     cert: '(Certificate)',
   },

@@ -4,24 +4,27 @@ export default [
     link: 'https://docs.qualcomm.com/product/publicresources/securitybulletin/november-2022-bulletin.html',
   },
   {
-    text: '阿里致谢',
+    text: 'Alibaba Acknowledgment',
     link: 'https://mp.weixin.qq.com/s/u6mcQb0zJJQl8MlDQfW6WA',
   },
   {
-    text: '华为致谢',
-    cert: '证书',
+    text: 'HUAWEI Acknowledgment',
+    cert: 'Certificate',
   },
   {
-    text: '中国电信致谢',
-    cert: '证书',
+    text: 'China Telecom Acknowledgment',
+    cert: 'Certificate',
   },
   {
+    text: 'Media Coverage (Cyber Security News)',
     link: 'https://cybersecuritynews.com/mitm-attack-on-wi-fi-networks/',
   },
   {
+    text: 'Media Coverage (APNIC)',
     link: 'https://blog.apnic.net/2023/05/29/mitm-attacks-in-public-wi-fi-networks-without-rogue-access-points/',
   },
   {
+    text: 'Media Coverage (The Register)',
     link: 'https://www.theregister.com/2023/04/07/wifi_access_icmp/',
   },
 ]

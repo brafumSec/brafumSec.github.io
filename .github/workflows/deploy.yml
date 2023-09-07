@@ -31,16 +31,16 @@ jobs:
       - name: Build Application
         run: npm run build
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: github-pages # Make sure this matches the artifact_name in deploy step
-          path: ./dist
+      # - name: Upload artifact
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: github-pages # Make sure this matches the artifact_name in deploy step
+      #     path: ./dist
           
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.GP }} # 使用 GitHub Token 进行部署
+          folder: dist # The folder the action should deploy.
 
       
 

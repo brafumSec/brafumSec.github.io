@@ -10,10 +10,9 @@ const About: React.FC = () => {
     <div className="About" id="about">
       <Title level={3}>Me and My Research</Title>
       <div className="content">
-        {/* {data.map((item) => (
-          <Typography.Paragraph>{item}</Typography.Paragraph>
-        ))} */}
-        <Typography.Paragraph>ZHANSINGSONG</Typography.Paragraph>
+        {data.map((item, index) => (
+          <Typography.Paragraph key={index}>{item}</Typography.Paragraph>
+        ))}
       </div>
     </div>
   );

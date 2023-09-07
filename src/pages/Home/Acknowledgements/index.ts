@@ -1,2 +1,2 @@
-import Awards from './Awards';
-export default Awards;
+import Acknowledgements from './Acknowledgements';
+export default Acknowledgements;

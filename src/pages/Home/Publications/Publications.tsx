@@ -2,8 +2,8 @@ import Title from '@/components/Title';
 import { Col, Row, Typography, Divider } from 'antd';
 import React from 'react';
 import './Publications.less';
-import data from './data';
-import otherData from './chineseData'
+import data from '@/data/publications';
+import otherData from '@/data/chinesePublications';
 
 // 脚手架示例组件
 const Publications: React.FC = () => {
@@ -17,7 +17,7 @@ const Publications: React.FC = () => {
               <Row>
                 <Col {...{ xs: 2, sm: 2, md: 1, lg: 1 }} className="r1">[{index + 1}]</Col>
                 <Col {...{ xs: 19, sm: 19, md: 21, lg:21 }} className="r2">
-                  <Typography.Link href='#' ><div className="tt" dangerouslySetInnerHTML={{ __html: item.paper.name }}></div></Typography.Link>
+                  <Typography.Link href={item.paper.link} ><div className="tt" dangerouslySetInnerHTML={{ __html: item.paper.name }}></div></Typography.Link>
                   <div
                     dangerouslySetInnerHTML={{ __html: item.paper.authors }}
                   ></div>
@@ -43,7 +43,7 @@ const Publications: React.FC = () => {
               <Row>
                 <Col{...{ xs: 2, sm: 2, md: 1, lg: 1 }}  className="r1">[{index + 1}]</Col>
                 <Col {...{ xs: 19, sm: 19, md: 21, lg:21 }} className="r2">
-                  <Typography.Link href='#' ><div className="tt" dangerouslySetInnerHTML={{ __html: item.paper.name }}></div></Typography.Link>
+                  <Typography.Link href={item.paper.link} ><div className="tt" dangerouslySetInnerHTML={{ __html: item.paper.name }}></div></Typography.Link>
                   <div
                     dangerouslySetInnerHTML={{ __html: item.paper.authors }}
                   ></div>

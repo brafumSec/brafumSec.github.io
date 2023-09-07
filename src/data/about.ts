@@ -3,7 +3,7 @@ export default [
   I am a Ph.D. graduate of Tsinghua University. My research focuses on
   network security and program analysis. I have discovered security
   issues in the TCP/IP protocol suite and other fundamental Internet
-  building blocks, e.g., Wi-Fi, IPv4/IPv6, ICMP and TCP. My work has
+  building blocks, e.g., Wi-Fi, IPv4/IPv6, ICMP, UDP, and TCP. My work has
   received widespread recognition and has been published at leading
   network security conferences, e.g., IEEE S&P, USENIX Security, ACM
   CCS, and NDSS. I have reported over 30 TCP/IP vulnerabilities,

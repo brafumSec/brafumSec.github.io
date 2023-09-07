@@ -1,7 +1,8 @@
 import photo from '@/assets/fxw.png';
 import { Col, Descriptions, Row, Grid } from 'antd';
 import React from 'react';
-import data from '@/data/intro';
+//@ts-ignore
+import data from '@/data/intro.tsx';
 import './Intro.less';
 
 const { useBreakpoint } = Grid;
@@ -11,15 +12,11 @@ const Intro: React.FC = () => {
   return (
     <div className="Intro" >
       <Row gutter={[12, 12]} style={{width: screens.xs ? '80%' : '100%'}}>
-        <Col {...{ xs: 24, sm: 3, md: 3, lg: 3 }}>
+        <Col {...{ xs: 24, sm: 5, md: 4, lg: 3 }}>
           <img className="photo" src={photo} alt="Feng xuewei"  />
         </Col>
-        <Col {...{ xs: 24, sm: 19, md: 19, lg: 19 }}>
-          <Descriptions title={data.name}>
-            <Descriptions.Item span={3} label="Email">
-              <a href={`mailto:${data.email}`}>{data.email}</a>
-            </Descriptions.Item>
-            <Descriptions.Item span={3} label="Research Area">{data.research}</Descriptions.Item>
+        <Col {...{ xs: 24, sm: 19, md: 20, lg: 21 }}>
+          <Descriptions {...data}>
           </Descriptions>
         </Col>
       </Row>

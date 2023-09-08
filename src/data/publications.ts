@@ -41,7 +41,7 @@ export default [
       name: "PMTUD is not Panacea: Revisiting IP Fragmentation Attacks against TCP",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Xu Ke, Liu Baojun, Zheng Xiaofeng, Yang Qiushi, Duan Haixin, Qian Zhiyun",
       org: "The 29<sup>th</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
-      link: '#',
+      link: 'https://www.ndss-symposium.org/wp-content/uploads/2022-381-paper.pdf',
        }
   },
   {

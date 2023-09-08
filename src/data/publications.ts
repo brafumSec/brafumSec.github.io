@@ -23,7 +23,7 @@ export default [
       name: "Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Xu Ke",
       org: "The 44<sup>th</sup> IEEE Symposium on Security and Privacy (<strong>IEEE S&P</strong>)",
-      link: 'https://drive.google.com/file/d/16V8cTNHjTpj4pBdk2Ci96wsPKbHvfeDA/view?usp=drive_link',
+      link: './Oakland_Feng.pdf',
        }
   },
   {
@@ -32,7 +32,7 @@ export default [
       name: "Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Qian Zhiyun, Fu Chuanpu, Zhao Gang, Kuang Xiaohui, Xu Ke",
       org: "The 31<sup>st</sup> USENIX Security Symposium (<strong>Security</strong>)",
-      link: '#',
+      link: 'https://www.usenix.org/system/files/sec22-feng.pdf',
        }
   },
   {

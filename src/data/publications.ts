@@ -11,19 +11,19 @@ export default [
   {
     date: 2023,
     paper: {
-      name: "FedDef: Defense Against Gradient Leakage in Federated Learning-based Network Intrusion Detection Systems",
+      name: "FedDef: Defense Against Gradient Leakage in Federated Learning-based Network Intrusion Detection Systems  [pdf]",
       authors: "Chen Jiahui, Zhao Yi, Li Qi, <strong>Feng Xuewei</strong>, Xu Ke",
       org: "IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>)",
-      link: '#',
+      link: 'https://arxiv.org/pdf/2210.04052.pdf',
     }
   },
   {
     date: 2023,
     paper: {
-      name: "Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects",
+      name: "Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Xu Ke",
       org: "The 44<sup>th</sup> IEEE Symposium on Security and Privacy (<strong>IEEE S&P</strong>)",
-      link: '#',
+      link: 'https://drive.google.com/file/d/16V8cTNHjTpj4pBdk2Ci96wsPKbHvfeDA/view?usp=drive_link',
        }
   },
   {
@@ -38,7 +38,7 @@ export default [
   {
     date: 2022,
     paper: {
-      name: "PMTUD is not Panacea: Revisiting IP Fragmentation Attacks against TCP  [PDF]",
+      name: "PMTUD is not Panacea: Revisiting IP Fragmentation Attacks against TCP  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Xu Ke, Liu Baojun, Zheng Xiaofeng, Yang Qiushi, Duan Haixin, Qian Zhiyun",
       org: "The 29<sup>th</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
       link: 'https://www.ndss-symposium.org/wp-content/uploads/2022-381-paper.pdf',

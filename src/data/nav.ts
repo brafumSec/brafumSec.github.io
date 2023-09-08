@@ -8,7 +8,7 @@ export default [
   {
     key: 'publications',
     href: '#publications',
-    title: 'Publications',
+    title: 'Selected Publications',
   },
   {
     key: 'awards',

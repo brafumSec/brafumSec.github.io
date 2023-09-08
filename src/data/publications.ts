@@ -23,13 +23,13 @@ export default [
       name: "Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Xu Ke",
       org: "The 44<sup>th</sup> IEEE Symposium on Security and Privacy (<strong>IEEE S&P</strong>)",
-      link: './Oakland_Feng.pdf',
+      link: 'https://share.weiyun.com/WSeu0DQt',
        }
   },
   {
     date: 2022,
     paper: {
-      name: "Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks",
+      name: "Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Qian Zhiyun, Fu Chuanpu, Zhao Gang, Kuang Xiaohui, Xu Ke",
       org: "The 31<sup>st</sup> USENIX Security Symposium (<strong>Security</strong>)",
       link: 'https://www.usenix.org/system/files/sec22-feng.pdf',
@@ -47,57 +47,57 @@ export default [
   {
     date: 2022,
     paper: {
-      name: "D3: Lightweight Secure Fault Localization in Edge Cloud",
+      name: "D3: Lightweight Secure Fault Localization in Edge Cloud  [pdf]",
       authors: "Fu Songtao, Li Qi, Wang Xiaoliang, Yao Su, <strong>Feng Xuewei</strong>, Wang Ziqiang, Du Xinle, Wan Kao, Xu Ke",
       org: "The 42<sup>nd</sup> International Conference on Distributed Computing Systems (<strong>ICDCS</strong>)",
-      link: '#',
+      link: 'https://share.weiyun.com/M21oFAJw',
     }
   },
   {
     date: 2021,
     paper: {
-      name: "Off-Path TCP Hijacking Attacks via the Side Channel of Downgraded IPID",
+      name: "Off-Path TCP Hijacking Attacks via the Side Channel of Downgraded IPID  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Fu Chuanpu, Xu Ke",
       org: "IEEE/ACM Transactions on Networking (<strong>ToN</strong>)",
       link: '#',
-      note: [""]
+      note: ["https://share.weiyun.com/ubbDQdp3"]
     }
   },
   {
     date: 2020,
     paper: {
-      name: "Off-path TCP exploits of the mixed IPID assignment",
+      name: "Off-path TCP exploits of the mixed IPID assignment  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Fu Chuanpu, Li Qi, Sun Kun, Xu Ke",
       org: "The 27<sup>th</sup> ACM Conference on Computer and Communications Security (<strong>CCS</strong>)",
-      link: '#',
+      link: 'https://share.weiyun.com/1AvUhMER',
       note: ["Nomination for the Distinguished Paper"]
     }
   },
   {
     date: 2020,
     paper: {
-      name: "Enhancing Randomization Entropy of x86-64 Code while Preserving Semantic Consistency",
-      authors: "<strong>Feng Xuewei</strong>, Wang Dongxia, Lin Zhechao, Kuang Xiaohui, Zhao Gang",
+      name: "Enhancing Randomization Entropy of x86-64 Code while Preserving Semantic Consistency  [pdf]",
+      authors: "<strong>Feng Xuewei</strong><sup>*</sup>, Wang Dongxia<sup>*</sup>, Lin Zhechao, Kuang Xiaohui, Zhao Gang",
       org: "The 19<sup>th</sup> IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<strong>TrustCom</strong>)",
-      link: '#',
+      link: 'https://share.weiyun.com/ciXrLTP2',
     }
   },
   {
     date: 2014,
     paper: {
-      name: "An Approach of Discovering Causal Knowledge for Alert Correlating Based on Data Mining",
+      name: "An Approach of Discovering Causal Knowledge for Alert Correlating Based on Data Mining  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Wang Dongxia, Huang Minhuan, Sun Xiaoxia",
       org: "The 12<sup>th</sup> IEEE Conference on Dependable, Autonomic and Secure Computing (<strong>DASC</strong>)",
-      link: '#',
+      link: 'https://share.weiyun.com/zNB119fa',
     }
   },
   {
     date: 2010,
     paper: {
-      name: "Analyzing and Correlating Security Events Using State Machine",
+      name: "Analyzing and Correlating Security Events Using State Machine  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Wang Dongxia, Zeng Jiemei, Ma Guoqing, Li Jin	",
       org: "The 10<sup>th</sup> IEEE Conference on Computer and Information Technology (<strong>ICCIT</strong>)",
-      link: '#',
+      link: 'https://share.weiyun.com/lclRqfhD',
     }
   },
 // 其他

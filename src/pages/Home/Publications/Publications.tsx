@@ -8,7 +8,7 @@ import otherData from '@/data/chinesePublications';
 // 脚手架示例组件
 const Publications: React.FC = () => {
   return (
-    <div className="Publications" id="publications">
+    <div className="Selected Publications" id="publications">
       <Title level={3}>Publications</Title>
       <div className="content">
         {data.map((item, index) => {

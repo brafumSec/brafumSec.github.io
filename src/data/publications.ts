@@ -3,7 +3,7 @@ export default [
     date: 2024,
     paper: {
       name: "Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks",
-      authors: "Yuxiang Yang, <strong>Xuewei Feng</strong>, Qi Li, Kun Sun, Ziqiang Wang, Xu Ke",
+      authors: "Yang Yuxiang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Wang Ziqiang, Xu Ke",
       org: "The 31<sup>st</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
       link: '#',
    }
@@ -12,7 +12,7 @@ export default [
     date: 2023,
     paper: {
       name: "FedDef: Defense Against Gradient Leakage in Federated Learning-based Network Intrusion Detection Systems",
-      authors: "Jiahui Chen, Yi Zhao, Qi Li, <strong>Xuewei Feng</strong>, Ke Xu",
+      authors: "Chen Jiahui, Zhao Yi, Li Qi, <strong>Feng Xuewei</strong>, Xu Ke",
       org: "IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>)",
       link: '#',
     }
@@ -48,7 +48,7 @@ export default [
     date: 2022,
     paper: {
       name: "D3: Lightweight Secure Fault Localization in Edge Cloud",
-      authors: "Songtao Fu, Qi Li, Xiaoliang Wang, Su Yao, <strong>Xuewei Feng</strong>, Ziqiang Wang, Xinle Du, Kao Wan, Ke Xu",
+      authors: "Fu Songtao, Li Qi, Wang Xiaoliang, Yao Su, <strong>Feng Xuewei</strong>, Wang Ziqiang, Du Xinle, Wan Kao, Xu Ke",
       org: "The 42<sup>nd</sup> International Conference on Distributed Computing Systems (<strong>ICDCS</strong>)",
       link: '#',
     }

@@ -1,7 +1,7 @@
 export default [
   `
-  I received my bachelor’s degree and doctor’s degree in computer science and technology
-  from Xi'an Jiaotong University and Tsinghua University in 2008 and 2022 respectively.
+  I received my bachelor's degree and doctor's degree in computer science and technology
+  from Xi'an Jiaotong University and Tsinghua University in 2008 and 2022, respectively.
   I have more than 10 years of working experience on network security and 
   program analysis. My primary research area centers on identifying
   vulnerabilities within the TCP/IP protocol suite and other fundamental Internet

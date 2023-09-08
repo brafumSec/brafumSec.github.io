@@ -1,5 +1,9 @@
 export default [
   {
+    text: 'Speech at the Commencement Ceremony',
+    link: 'https://www.cs.tsinghua.edu.cn/info/1088/5051.htm',
+  },
+  {
     text: 'Qualcomm Acknowledgment',
     link: 'https://docs.qualcomm.com/product/publicresources/securitybulletin/november-2022-bulletin.html',
   },

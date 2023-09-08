@@ -23,7 +23,7 @@ export default [
       name: "Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects  [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Xu Ke",
       org: "The 44<sup>th</sup> IEEE Symposium on Security and Privacy (<strong>IEEE S&P</strong>)",
-      link: 'https://share.weiyun.com/WSeu0DQt',
+      link: 'https://tjc-download.weiyun.com/ftn_handler/dc8529697aecf4784d6781ad01da1dc9a5ad8617ce47538b720c2f0a1934d8b1de61ffeca17cf47056385f7b3d4922c89745b67c8929d73532ef141b311e7bc2/Oakland_Feng.pdf?fname=Oakland_Feng.pdf&from=30113&version=3.3.3.3',
        }
   },
   {

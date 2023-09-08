@@ -4,7 +4,7 @@ export default {
     {
       key: '1',  // 保证唯一就行
       label: 'email', // 标签名
-      children: <a href="mailto:engxw06@126.com">fengxw06@126.com</a>, // 支持 HTML 形式
+      children: <a href="mailto:fengxw06@126.com">fengxw06@126.com</a>, // 支持 HTML 形式
       span:3, // 包含列的数量，用于控制是否占用单行等
       labelStyle: {}, // 用于控制 label 样式
       contentStyle: {} // 用于控制 children 样式

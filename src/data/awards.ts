@@ -5,12 +5,12 @@ export default [
     level: '2023',
   },
  {
-    name: 'Outstanding Doctoral Dissertation of Tsinghua University',
+    name: 'Outstanding Doctoral Dissertation of Tsinghua University (the 1st place in CS)',
     date: 2022,
     level: '2022',
   },
   {
-    name: 'Outstanding Ph.D. Graduate of Tsinghua University',
+    name: 'Outstanding Ph.D. Graduate of Tsinghua University (the 1st place in CS)',
     date: 2022,
     level: '2022',
   },

@@ -25,6 +25,11 @@ export default [
     level: '2020',
   },
   {
+    name: 'Outstanding Graduate of Xi'an Jiaotong University',
+    date: 2008,
+    level: '2008',
+  },
+  {
     name: '省部级优秀硕士学位论文',
     date: 2011,
     level: '2011',

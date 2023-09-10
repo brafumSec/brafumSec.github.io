@@ -25,7 +25,7 @@ export default [
     level: '2020',
   },
   {
-    name: 'Outstanding Graduate of Xi'an Jiaotong University',
+    name: 'Outstanding Graduate of XJTU',
     date: 2008,
     level: '2008',
   },

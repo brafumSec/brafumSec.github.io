@@ -15,7 +15,7 @@ export default [
   `
   I have been honored with a number of awards: Frontiers of Science
   Awards by the International Congress of Basic Science (ICBS),
-  Nomination for the Distinguished Paper Award of CCS’2020, and ACM
+  Nomination for the Distinguished Paper Award of CCS'2020, and ACM
   SIGSAC China Doctoral Dissertation Award. The impact of my research
   has extended to the security community and industry, receiving
   acknowledgments and thanks from well-known organizations and companies

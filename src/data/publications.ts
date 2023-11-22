@@ -2,10 +2,10 @@ export default [
   {
     date: 2024,
     paper: {
-      name: "Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks",
+      name: "Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks [pdf]",
       authors: "Yang Yuxiang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Wang Ziqiang, Xu Ke",
       org: "The 31<sup>st</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
-      link: '#',
+      link: 'https://drive.usercontent.google.com/download?id=1Eik3CluYSDzT_mgzdDItkdefGUW9h3Id&export=download&authuser=0&confirm=t&uuid=64781d92-cd4b-4c49-a113-fa3eb97730ec&at=APZUnTVF1rNWeqBJQKSnkM8wV33A:1700612909161',
    }
   },
   {

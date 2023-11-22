@@ -9,7 +9,7 @@ import otherData from '@/data/chinesePublications';
 const Publications: React.FC = () => {
   return (
     <div className="Selected Publications" id="publications">
-      <Title level={3}>Publications</Title>
+      <Title level={3}>Selected Publications</Title>
       <div className="content">
         {data.map((item, index) => {
           return (
@@ -40,7 +40,8 @@ const Publications: React.FC = () => {
           return (
             <div className="item" key={index}>
               <Row>
-                <Col {...{ xs: 21, sm: 21, md: 22, lg:22 }} className="r2">
+                <Col{...{ xs: 2, sm: 2, md: 1, lg: 1 }}  className="r1">[{index + 1}]</Col>
+                <Col {...{ xs: 19, sm: 19, md: 21, lg:21 }} className="r2">
                   <Typography.Link href={item.paper.link} ><div className="tt" dangerouslySetInnerHTML={{ __html: item.paper.name }}></div></Typography.Link>
                   <div
                     dangerouslySetInnerHTML={{ __html: item.paper.authors }}

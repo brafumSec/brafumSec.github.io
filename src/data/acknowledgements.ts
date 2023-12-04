@@ -24,6 +24,10 @@ export default [
     cert: '(Certificate)',
   },
   {
+    text: 'China Unicom Acknowledgment',
+    cert: '(Certificate)',
+  },
+  {
     text: 'Media Coverage by Cyber Security News',
     link: 'https://cybersecuritynews.com/mitm-attack-on-wi-fi-networks/',
   },

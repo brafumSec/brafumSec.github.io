@@ -8,6 +8,10 @@ export default [
     link: 'https://docs.qualcomm.com/product/publicresources/securitybulletin/november-2022-bulletin.html',
   },
   {
+    text: 'FreeBSD Acknowledgment',
+    link: 'https://www.freebsd.org/security/advisories/FreeBSD-SA-23:17.pf.asc',
+  },
+  {
     text: 'Alibaba Acknowledgment',
     link: 'https://mp.weixin.qq.com/s/u6mcQb0zJJQl8MlDQfW6WA',
   },

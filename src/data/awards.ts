@@ -1,15 +1,14 @@
 export default [
   {
     name: '北京市优秀博士学位论文',
-    date: 2023,
+    link: 'https://mp.weixin.qq.com/s/3-W2gGqTkHOIQUFhqqVPUQ',
     level: '2023',
-  },
+  },  
   {
     name: 'acm SIGSAC Doctoral Dissertation Award Runner-Up',
     date: 2023,
     level: '2023',
   },
-  
   {
     name: 'Frontiers of Science Awards by International Congress of Basic Science',
     date: 2023,

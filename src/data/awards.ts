@@ -1,7 +1,7 @@
 export default [
   {
     name: '北京市优秀博士学位论文',
-    link: 'https://mp.weixin.qq.com/s/3-W2gGqTkHOIQUFhqqVPUQ',
+    date: 2023,
     level: '2023',
   },  
   {

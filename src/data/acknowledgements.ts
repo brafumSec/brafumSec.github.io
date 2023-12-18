@@ -1,5 +1,9 @@
 export default [
   {
+    text: 'Outstanding Doctoral Dissertation of Beijing',
+    link: 'https://mp.weixin.qq.com/s/3-W2gGqTkHOIQUFhqqVPUQ',
+  }, 
+  {
     text: 'Speech at the Commencement Ceremony',
     link: 'https://www.cs.tsinghua.edu.cn/info/1088/5051.htm',
   },

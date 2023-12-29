@@ -1,6 +1,10 @@
 export default [
   {
-    text: 'Outstanding Doctoral Dissertation of Beijing',
+    text: 'Report on acm SIGSAC Doctoral Dissertation Award Runner-Up',
+    link: 'https://www.tsinghua.edu.cn/en/info/1245/12633.htm',
+  }, 
+  {
+    text: 'Report on Outstanding Doctoral Dissertation of Beijing',
     link: 'https://mp.weixin.qq.com/s/3-W2gGqTkHOIQUFhqqVPUQ',
   }, 
   {

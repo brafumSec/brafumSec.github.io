@@ -3,7 +3,7 @@ export default [
     date: 2024,
     paper: {
       name: "Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack [pdf]",
-      authors: "Ziqiang Wang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yuxiang Yang, Mengyuan Li, Xu Ke, Jianping Wu",
+      authors: "Wang Ziqiang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Li Mengyuan, Xu Ke, Wu Jianping",
       org: "https://arxiv.org/pdf/2402.12716.pdf",
       link: 'https://arxiv.org/pdf/2402.12716.pdf',
    }

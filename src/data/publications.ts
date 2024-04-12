@@ -1,5 +1,14 @@
 export default [
-   {
+  {
+    date: 2024,
+    paper: {
+      name: "Secure Fault Localization in Path Aware Networking",
+      authors: "Fu Songtao, Li Qi, Wang Xiaoliang, Yao Su, <strong>Feng Xuewei</strong>, Wang Ziqiang, Du Xinle, Wan Kao, Xu Ke",
+      org: "IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>)",
+      link: '',
+    }
+  },
+  {
     date: 2024,
     paper: {
       name: "Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack [pdf]",

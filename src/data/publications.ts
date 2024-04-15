@@ -8,6 +8,7 @@ export default [
       link: '',
     }
   },
+  {
     date: 2024,
     paper: {
       name: "Secure Fault Localization in Path Aware Networking",

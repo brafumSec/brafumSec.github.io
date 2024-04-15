@@ -2,6 +2,14 @@ export default [
   {
     date: 2024,
     paper: {
+      name: "A Horizontal Study on the Mixed IPID Assignment Vulnerability in the Linux Ecosystem",
+      authors: "Wang Ao, <strong>Feng Xuewei</strong>, Li Qi, Yang Yuxiang, Xu Ke",
+      org: "IEEE/ACM International Symposium on Quality of Service (<strong>IWQoS</strong>)",
+      link: '',
+    }
+  },
+    date: 2024,
+    paper: {
       name: "Secure Fault Localization in Path Aware Networking",
       authors: "Fu Songtao, Li Qi, Wang Xiaoliang, Yao Su, <strong>Feng Xuewei</strong>, Wang Ziqiang, Du Xinle, Wan Kao, Xu Ke",
       org: "IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>)",

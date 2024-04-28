@@ -8,9 +8,9 @@ export default [
   building blocks, e.g., Wi-Fi, IPv4/IPv6, ICMP, UDP, and TCP. My work has
   received widespread recognition and has been published at leading
   network security conferences, e.g., IEEE S&P, USENIX Security, ACM
-  CCS, and NDSS. I have reported over 50 TCP/IP vulnerabilities,
+  CCS, and NDSS. I have reported over 100 TCP/IP vulnerabilities,
   contributing to CVE/CNVD and working with affected vendors for
-  remediation.
+  remediation. Our proof of concept can be found at 'https://github.com/Internet-Architecture-and-Security'.
   `,
   `
   I have been honored with a number of awards: Frontiers of Science

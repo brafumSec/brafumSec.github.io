@@ -1,5 +1,6 @@
 import Title from '@/components/Title';
 import { Typography } from 'antd';
+import { renderToString } from 'react-dom/server'
 import React from 'react';
 import data from '@/data/about';
 import './About.less';
@@ -9,10 +10,9 @@ const About: React.FC = () => {
   return (
     <div className="About" id="about">
       <Title level={3}>Me and My Research</Title>
-      <div className="content">
-        {data.map((item, index) => (
-          <Typography.Paragraph key={index}>{item}</Typography.Paragraph>
-        ))}
+      <div className="content" dangerouslySetInnerHTML={{__html: data.map((item, index) => (
+          renderToString(<p key={index} dangerouslySetInnerHTML={{__html: item}}/>)
+        )).join('')}}>
       </div>
     </div>
   );

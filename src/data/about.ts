@@ -2,7 +2,7 @@ export default [
   `
   I received my bachelor's degree and doctor's degree in computer science and technology
   from Xi'an Jiaotong University and Tsinghua University in 2008 and 2022, respectively.
-  I have more than 10 years of working experience on network security and 
+  I have more than 10 years of working experience on network security and
   program analysis. My primary research area centers on identifying
   vulnerabilities within the TCP/IP protocol suite and other fundamental Internet
   building blocks, e.g., Wi-Fi, IPv4/IPv6, ICMP, UDP, and TCP. My work has
@@ -10,7 +10,7 @@ export default [
   network security conferences, e.g., IEEE S&P, USENIX Security, ACM
   CCS, and NDSS. I have reported over 100 TCP/IP vulnerabilities,
   contributing to CVE/CNVD and working with affected vendors for
-  remediation. Our proof of concept can be found at 'https://github.com/Internet-Architecture-and-Security'.
+  remediation. Our proof of concept can be found at <a href='https://github.com/Internet-Architecture-and-Security'>Internet-Architecture-and-Security</a>.
   `,
   `
   I have been honored with a number of awards: Frontiers of Science

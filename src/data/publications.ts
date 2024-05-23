@@ -1,9 +1,18 @@
 export default [
+   {
+    date: 2024,
+    paper: {
+      name: "BlueSWAT: A Lightweight State-Aware Security Framework for Bluetooth Low Energy",
+      authors: "Wang Ao, <strong>Feng Xuewei</strong>, Li Qi, Yang Yuxiang, Xu Ke",
+      org: "The ACM Conference on Computer and Communications Security (<strong>CCS</strong>)",
+      link: '',
+    }
+  },
   {
     date: 2024,
     paper: {
       name: "A Horizontal Study on the Mixed IPID Assignment Vulnerability in the Linux Ecosystem",
-      authors: "Wang Ao, <strong>Feng Xuewei</strong>, Li Qi, Yang Yuxiang, Xu Ke",
+      authors: "Che Xijia, He Yi, <strong>Feng Xuewei</strong>, Sun Kun, Xu Ke, Li Qi",
       org: "IEEE/ACM International Symposium on Quality of Service (<strong>IWQoS</strong>)",
       link: '',
     }

@@ -1,5 +1,23 @@
 export default [
-   {
+  {
+    date: 2025,
+    paper: {
+      name: "An Empirical Study on Remote DoS Attacks against NAT Networks",
+      authors: "<strong>Feng Xuewei</strong>, Yang Yuxiang, Li Qi, Zhan Xingxiang, Sun Kun, Wang Ziqiang, Wang Ao, Du Ganqiu, Xu Ke",
+      org: "The 32<sup>nd</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
+      link: '',
+   }
+  },
+    {
+    date: 2025,
+    paper: {
+      name: "Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack [pdf]",
+      authors: "Wang Ziqiang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Li Mengyuan, Du Ganqiu, Xu Ke, Wu Jianping",
+      org: "The 32<sup>nd</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
+      link: 'https://arxiv.org/pdf/2402.12716.pdf',
+   }
+  },
+  {
     date: 2024,
     paper: {
       name: "BlueSWAT: A Lightweight State-Aware Security Framework for Bluetooth Low Energy",
@@ -25,15 +43,6 @@ export default [
       org: "IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>)",
       link: '',
     }
-  },
-  {
-    date: 2024,
-    paper: {
-      name: "Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack [pdf]",
-      authors: "Wang Ziqiang, <strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Yang Yuxiang, Li Mengyuan, Xu Ke, Wu Jianping",
-      org: "https://arxiv.org/pdf/2402.12716.pdf",
-      link: 'https://arxiv.org/pdf/2402.12716.pdf',
-   }
   },
   {
     date: 2024,
@@ -124,15 +133,6 @@ export default [
       authors: "<strong>Feng Xuewei</strong>, Wang Dongxia, Huang Minhuan, Sun Xiaoxia",
       org: "The 12<sup>th</sup> IEEE Conference on Dependable, Autonomic and Secure Computing (<strong>DASC</strong>)",
       link: 'https://drive.google.com/u/0/uc?id=1_Yw7ecJx4f8ppGaPw3BFOFeaSq-Unr0q&export=download',
-    }
-  },
-  {
-    date: 2010,
-    paper: {
-      name: "Analyzing and Correlating Security Events Using State Machine  [pdf]",
-      authors: "<strong>Feng Xuewei</strong>, Wang Dongxia, Zeng Jiemei, Ma Guoqing, Li Jin	",
-      org: "The 10<sup>th</sup> IEEE Conference on Computer and Information Technology (<strong>ICCIT</strong>)",
-      link: 'https://drive.google.com/u/0/uc?id=1CdnMWLzoK2V0BkWmp7isHwy3O2CwZX64&export=download',
     }
   },
 // 其他

@@ -18,6 +18,6 @@ export default [
   {
     key: 'acknowledgements',
     href: '#acknowledgements',
-    title: 'Acknowledgements & Media coverage',
+    title: 'Acknowledgements & Media Coverage',
   },
 ];

@@ -8,7 +8,7 @@ import './Acknowledgements.less';
 const Acknowledgements: React.FC = () => {
   return (
     <div className="Acknowledgements" id="acknowledgements">
-      <Title level={3}>Acknowledgements & Media coverage</Title>
+      <Title level={3}>Acknowledgements & Media Coverage</Title>
       <ul className="list">
         {data.map((item, index) => {
           if (item.link && item.text) {

@@ -1,6 +1,6 @@
 export default [
   {
-    name: '北京市优秀博士学位论文',
+    name: 'Outstanding Doctoral Dissertation of Beijing',
     date: 2023,
     level: '2023',
   },  

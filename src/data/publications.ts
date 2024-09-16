@@ -1,4 +1,13 @@
 export default [
+   {
+    date: 2025,
+    paper: {
+      name: "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite",
+      authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Xu Ke, Wu Jianping",
+      org: "Communications of the ACM (<strong>CACM</strong>)",
+      link: '',
+   }
+  },
   {
     date: 2025,
     paper: {

@@ -16,6 +16,10 @@ export default [
     link: 'https://docs.qualcomm.com/product/publicresources/securitybulletin/november-2022-bulletin.html',
   },
   {
+    text: 'Cisco Acknowledgment',
+    link: 'https://bst.cisco.com/bugsearch/bug/CSCwm63019',
+  },  
+  {
     text: 'FreeBSD Acknowledgment',
     link: 'https://www.freebsd.org/security/advisories/FreeBSD-SA-23:17.pf.asc',
   },

@@ -28,7 +28,7 @@ export default [
     link: 'https://mp.weixin.qq.com/s/u6mcQb0zJJQl8MlDQfW6WA',
   },
   {
-    text: 'GitHub Acknowledgment',
+    text: 'GitHub Advisory',
     link: 'https://github.com/advisories/GHSA-w52c-ppqw-2gxp',
   },
   {

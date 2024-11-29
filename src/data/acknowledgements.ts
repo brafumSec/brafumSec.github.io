@@ -32,6 +32,10 @@ export default [
     link: 'https://github.com/advisories/GHSA-w52c-ppqw-2gxp',
   },
   {
+    text: 'HUAWEI Advisory',
+    link: 'https://www.huawei.com/en/psirt/security-advisories/huawei',
+  },
+  {
     text: 'HUAWEI Acknowledgment',
     cert: '(Certificate)',
   },

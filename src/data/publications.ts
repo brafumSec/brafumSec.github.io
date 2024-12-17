@@ -2,19 +2,19 @@ export default [
    {
     date: 2025,
     paper: {
-      name: "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite",
+      name: "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Xu Ke, Wu Jianping",
       org: "Communications of the ACM (<strong>CACM</strong>)",
-      link: '',
+      link: 'https://arxiv.org/pdf/2411.09895',
    }
   },
   {
     date: 2025,
     paper: {
-      name: "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks",
+      name: "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Yang Yuxiang, Li Qi, Zhan Xingxiang, Sun Kun, Wang Ziqiang, Wang Ao, Du Ganqiu, Xu Ke",
       org: "The 32<sup>nd</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
-      link: '',
+      link: 'https://arxiv.org/pdf/2410.21984',
    }
   },
     {

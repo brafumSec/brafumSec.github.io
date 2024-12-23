@@ -33,7 +33,7 @@ export default [
   },
   {
     text: 'HUAWEI Advisory',
-    link: 'https://www.huawei.com/en/psirt/security-advisories/huawei',
+    link: 'https://www.huawei.com/en/PSIRT/security-advisories/2024/huawei-sa-CHViSHHR-d616b19e-en',
   },
   {
     text: 'HUAWEI Acknowledgment',

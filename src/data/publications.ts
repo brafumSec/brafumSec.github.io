@@ -1,5 +1,14 @@
 export default [
-   {
+  {
+    date: 2025,
+    paper: {
+      name: "StateShield: Real-time Defenses against Information Leakage over Connectionless Protocols",
+      authors: "Li Haibin, Li Qi, Su Yingying, <strong>Feng Xuewei</strong>, Fu Chuanpu, Xu Ke",
+      org: "IEEE/ACM Transactions on Networking (<strong>ToN</strong>)",
+      link: '',
+   }
+  },
+  {
     date: 2025,
     paper: {
       name: "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite [pdf]",

@@ -14,7 +14,7 @@ export default [
       name: "Exploiting Cross-Layer Vulnerabilities: Off-Path Attacks on the TCP/IP Protocol Suite [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Li Qi, Sun Kun, Xu Ke, Wu Jianping",
       org: "Communications of the ACM (<strong>CACM</strong>)",
-      link: 'https://arxiv.org/pdf/2411.09895',
+      link: 'https://dl.acm.org/doi/pdf/10.1145/3689819',
    }
   },
   {

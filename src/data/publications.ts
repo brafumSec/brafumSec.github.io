@@ -23,7 +23,8 @@ export default [
       name: "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks [pdf]",
       authors: "<strong>Feng Xuewei</strong>, Yang Yuxiang, Li Qi, Zhan Xingxiang, Sun Kun, Wang Ziqiang, Wang Ao, Du Ganqiu, Xu Ke",
       org: "The 32<sup>nd</sup> Network and Distributed System Security Symposium (<strong>NDSS</strong>)",
-      link: 'https://arxiv.org/pdf/2410.21984',
+      link: 'https://www.ndss-symposium.org/wp-content/uploads/2025-972-paper.pdf',
+      note: ["Distinguished Paper Award"]
    }
   },
     {

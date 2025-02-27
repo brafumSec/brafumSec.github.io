@@ -1,5 +1,10 @@
 export default [
   {
+    name: 'Distinguished Paper Award of NDSS',
+    date: 2025,
+    level: '2025',
+  },
+  {
     name: 'Outstanding Doctoral Dissertation of Beijing',
     date: 2023,
     level: '2023',

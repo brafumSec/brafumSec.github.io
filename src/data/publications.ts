@@ -133,7 +133,7 @@ export default [
       authors: "<strong>Feng Xuewei</strong>, Fu Chuanpu, Li Qi, Sun Kun, Xu Ke",
       org: "The 27<sup>th</sup> ACM Conference on Computer and Communications Security (<strong>CCS</strong>)",
       link: 'https://drive.google.com/u/0/uc?id=1OmevwT-GWABcM2q86Ax3BBJN-MGCH7Ke&export=download',
-      note: ["Nomination for the Distinguished Paper"]
+      note: ["Nomination for the Best Paper"]
     }
   },
   {
